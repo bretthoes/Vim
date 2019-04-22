@@ -1,4 +1,5 @@
 " Basic Settings
-
+"
+"
 inoremap jk <ESC>
 let mapleader = "<Space>"
